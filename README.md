@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bharanidharan885.
 - 👀 I’m interested in Ethical Hacking.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning as well as working Python.
 - 💞️ I’m looking to collaborate on Youtube 
 - 📫 How to reach me Insta - call_me_bharani_buddy
 
