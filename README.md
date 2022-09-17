@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bharanidharan885.
-- 👀 I’m interested in Hacking (BlackHat + WhiteHat).
+- 👀 I’m interested in Hacking (GrayHat).
 - 🌱 I’m currently learning as well as working Python.
 - 💞️ I’m looking to collaborate on Youtube 
 - 📫 How to reach me Insta - call_me_bharani_buddy
